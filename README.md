@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kato-Francis
-- 👀 I’m interested software development and machine learning
+- 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning object oriented programming with python
 - 💞️ I’m looking to collaborate on development of useful projects
 - 📫 I can be accessed on my emai:katofrancisj4@gmail.com
